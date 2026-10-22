@@ -1,15 +1,8 @@
 # Model E/R (en Mermaid)
 ## Entitats
 ```mermaid
-erDiagram
-    Personatge {
-        String DNI PK 
-        String Nom "NOT NULL"
-        String Cognom
-        int Vida
-        int Força
-        int Agilitat
-        int Carisma 
+ Habilitat {
+     
     }
 ```
 ```mermaid
