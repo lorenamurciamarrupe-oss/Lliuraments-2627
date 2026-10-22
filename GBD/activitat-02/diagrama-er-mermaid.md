@@ -1,4 +1,6 @@
 # Model E/R (en Mermaid)
+Un diagrama Entidad/Relación E/R es una herramienta fundamental en el diseño de bases de datos.
+
 ## Entitats
 ```mermaid
 erDiagram
