@@ -1,5 +1,5 @@
 
 
 `` mermaid para poner el diagrama
-eDiagram arriba del diagrama
+erDiagram arriba del diagrama
 ```al final del diagrama 
