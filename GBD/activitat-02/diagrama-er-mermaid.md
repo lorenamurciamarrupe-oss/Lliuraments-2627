@@ -2,6 +2,7 @@
 ## Entitats
 ``mermaid
 Enemic {
+``
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
