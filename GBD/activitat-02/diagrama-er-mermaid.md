@@ -11,6 +11,13 @@ erDiagram
      
     }
 ```
+## Atributos 
+El atributo es una cualidad, característica o propiedad que define a una persona, objeto, lugar o concepto.
+  > -  Dentro de cada una de las entidades hay un atributos que deficenen lo que tiene esa entidad.
+>   -  En los atributos he puesto el tipo de atributo que es cada uno de ellos.
+>   -  Si esta subralla el aributo he puesto al lado de el un `PK`.
+>   -  Y si es obligatorio un `"NOT FULL"`
+
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
