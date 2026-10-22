@@ -1,6 +1,6 @@
 # Model E/R (en Mermaid)
 ## Entitats
-``mermaid
+```mermaid
 erDiagram
     Personatge {
         String DNI PK 
@@ -11,7 +11,7 @@ erDiagram
         int Agilitat
         int Carisma 
     }
-``
+```
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
