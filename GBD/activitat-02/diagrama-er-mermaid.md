@@ -1,5 +1,5 @@
 # Model E/R (en Mermaid)
-`` mermaid
+```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
     Personatge }o--o{ Enemic : Enfrenta
