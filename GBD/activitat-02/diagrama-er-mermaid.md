@@ -20,7 +20,7 @@ El atributo es una cualidad, característica o propiedad que define a una person
 
 ```mermaid
 erDiagram
-    Enemic {
+ Enemic {
         String Nom "NOT FULL"
         String Codi PK
         int Tipus "NOT FULL"
@@ -29,6 +29,7 @@ erDiagram
         int Força
         int Agilitat
         int Carisma 
+    }
 ```
 ```mermaid
 erDiagram
