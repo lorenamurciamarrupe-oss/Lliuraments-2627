@@ -1,17 +1,16 @@
 # Model E/R (en Mermaid)
 ## Entitats
-``mermaid
-Enemic {
-        String Nom "NOT FULL"
-        String Codi PK
-        int Tipus "NOT FULL"
-        int Nivell "NOT FULL"
+erDiagram
+    Personatge {
+        String DNI PK 
+        String Nom "NOT NULL"
+        String Cognom
         int Vida
         int Força
         int Agilitat
         int Carisma 
     }
-``
+
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
