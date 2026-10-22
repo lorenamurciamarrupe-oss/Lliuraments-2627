@@ -18,6 +18,17 @@ El atributo es una cualidad, característica o propiedad que define a una person
 >   -  Si esta subralla el aributo he puesto al lado de el un `PK`.
 >   -  Y si es obligatorio un `"NOT FULL"`
 
+```mermai
+    Enemic {
+        String Nom "NOT FULL"
+        String Codi PK
+        int Tipus "NOT FULL"
+        int Nivell "NOT FULL"
+        int Vida
+        int Força
+        int Agilitat
+        int Carisma 
+```
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
