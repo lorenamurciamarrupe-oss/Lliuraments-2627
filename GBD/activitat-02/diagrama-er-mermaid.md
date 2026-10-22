@@ -1,4 +1,7 @@
 # Model E/R (en Mermaid)
+## Entitats
+``mermaid
+Enemic {
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
