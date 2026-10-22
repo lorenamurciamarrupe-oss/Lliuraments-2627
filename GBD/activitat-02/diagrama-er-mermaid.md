@@ -2,6 +2,7 @@
 Un diagrama Entidad/Relación E/R es una herramienta fundamental en el diseño de bases de datos. 
 Con esta guia, explica paso a paso como hacer todos los elementos del Model E/R, con el diagrama completo al final de la guia. 
 ## Entitats
+Una entidad en un Modelo Entidad-Relación (E/R) es cualquier objeto, concepto o elemento del mundo real sobre el cual queremos guardar información en nuestra base de datos
 ```mermaid
 erDiagram
  Habilitat {
