@@ -18,7 +18,8 @@ El atributo es una cualidad, característica o propiedad que define a una person
 >   -  Si esta subralla el aributo he puesto al lado de el un `PK`.
 >   -  Y si es obligatorio un `"NOT FULL"`
 
-```mermai
+```mermaid
+erDiagram
     Enemic {
         String Nom "NOT FULL"
         String Codi PK
