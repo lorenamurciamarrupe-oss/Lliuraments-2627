@@ -2,6 +2,15 @@
 ## Entitats
 ``mermaid
 Enemic {
+        String Nom "NOT FULL"
+        String Codi PK
+        int Tipus "NOT FULL"
+        int Nivell "NOT FULL"
+        int Vida
+        int Força
+        int Agilitat
+        int Carisma 
+    }
 ``
 ```mermaid
 erDiagram
