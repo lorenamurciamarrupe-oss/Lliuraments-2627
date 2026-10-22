@@ -54,4 +54,4 @@ erDiagram
         String Nom "NOT NULL"
         int Motxilla
     }
-    ``
+    
