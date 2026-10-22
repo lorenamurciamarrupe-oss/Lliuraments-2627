@@ -1,8 +1,7 @@
 
-
 `` mermaid
 erDiagram
- Enemic }o--o{  Habilitat : Enfrenta
+    Enemic }o--o{  Habilitat : Enfrenta
     Personatge }o--o{ Enemic : Enfrenta
     Personatge }o--o{Habilitat : Poseeix
     Personatge ||--o| Mascota : Acompanya
@@ -55,4 +54,4 @@ erDiagram
         String Nom "NOT NULL"
         int Motxilla
     }
-```al final del diagrama 
+    ``
