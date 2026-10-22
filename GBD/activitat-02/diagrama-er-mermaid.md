@@ -1,6 +1,7 @@
 # Model E/R (en Mermaid)
 ## Entitats
 ```mermaid
+erDiagram
  Habilitat {
      
     }
