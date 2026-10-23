@@ -33,7 +33,7 @@ erDiagram
 ```
 ## Relaciones
 Una relación es la unión o conexión entre dos o más elementos. Representa los vínculos o interacciones que hay entre las entidades.
-```meirmaid
+```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta {
    }
