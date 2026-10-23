@@ -41,15 +41,15 @@ erDiagram
 ```
 ## Cardinalitat de la Relació
 La cardinalidad señala cuántas instancias de una entidad pueden asociarse con una instancia de otra. En Mermaid, se representa mediante símbolos situados en los extremos de las líneas.
-|o : Un o zero
+> - |o : Un o zero
 
-|| : Exactament un
+> - || : Exactament un
 
-}o : Molts o zero
+> - }o : Molts o zero
 
-}| : Molts o un
+> - }| : Molts o un
 
-o| : Zero o un
+> - o| : Zero o un
 # Diagrama final
 ```mermaid
 erDiagram
