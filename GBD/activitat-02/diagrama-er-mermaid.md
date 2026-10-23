@@ -38,7 +38,9 @@ erDiagram
     Enemic }o--o{  Habilitat : Enfrenta 
    
 ```
+>   -  Representación: Se dibujan como una línea que conecta a las entidades, con un verbo descriptivo en la etiqueta de la línea.
 
+# Diagrama final
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta
