@@ -58,6 +58,14 @@ Una instancia de la Entidad A se relaciona con, a lo sumo, una instancia de la E
 erDiagram
     Personatge ||--o| Mascota : Acompanya
 ```
+## Molts a Molts (M:N)
+Cada instancia de la Entidad A puede estar vinculada a varias instancias de la Entidad B, y al contrario.
+> - Exemple: Un PERSONATGE pot enfrentar a molts ENEMICS, i un ENEMIC pot enfrenatar a molts PERSONATGES.
+```mermaid
+erDiagram
+    Personatge }o--o{ Enemic : Enfrenta
+```
+
 # Diagrama final
 ```mermaid
 erDiagram
