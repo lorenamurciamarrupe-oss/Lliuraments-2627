@@ -33,13 +33,14 @@ erDiagram
 ```
 ## Relaciones
 Una relación es la unión o conexión entre dos o más elementos. Representa los vínculos o interacciones que hay entre las entidades.
+
+>   -  Representación: Se dibujan como una línea que conecta a las entidades, con un verbo descriptivo en la etiqueta de la línea.
+
 ```mermaid
 erDiagram
     Enemic }o--o{  Habilitat : Enfrenta 
    
 ```
->   -  Representación: Se dibujan como una línea que conecta a las entidades, con un verbo descriptivo en la etiqueta de la línea.
-
 # Diagrama final
 ```mermaid
 erDiagram
