@@ -53,7 +53,7 @@ La cardinalidad señala cuántas instancias de una entidad pueden asociarse con 
 
 ## Un a Un (1:1)
 Una instancia de la Entidad A se relaciona con, a lo sumo, una instancia de la Entidad B, y viceversa.
-> - Exemple: Un PROFESSOR dirigeix un DEPARTAMENT. Un departament només pot ser dirigit per un professor.
+> - Exemple: Un PERSONATGE acompaña a una MASCOTA. Una MASCOTA només pot ser acompañada per un PERSONATGE.
 ```mermaid
 erDiagram
     Personatge ||--o| Mascota : Acompanya
