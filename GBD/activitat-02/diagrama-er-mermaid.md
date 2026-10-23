@@ -66,7 +66,6 @@ erDiagram
     Personatge }o--o{ Enemic : Enfrenta
 ```
 > [!IMPORTANT]
-> > [!IMPORTANT]
 > Las relaciones de muchos a muchos **(M:N)** no pueden representarse de forma directa en una base de datos relacional. Por eso, al transformarlas al modelo relacional, se crea una tabla adicional conocida como tabla intermedia o tabla de unión.
 
 # Diagrama final
