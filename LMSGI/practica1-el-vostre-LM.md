@@ -1,7 +1,6 @@
-# Exemple d'Estructura XML i Visualització
-
-Aquest document serveix com a guia pràctica per entendre com s'estructura un fitxer XML utilitzant un exemple de catàleg de llibres.
-
+# El vostre propi llenguatge de marques 
+Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
+> - 
 ## 1. El Codi XML
 
 Aquest és el fitxer de dades XML original ben formatat, amb elements, subelements i atributs:
