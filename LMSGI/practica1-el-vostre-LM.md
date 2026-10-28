@@ -1,4 +1,4 @@
-# El vostre propi llenguatge de marques 
+# El vostre propi llenguatge de marques (BookLM)
 Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
 > - **Biblioteca:** Agrupa todos los libros.
 > - **Libro:** Contiene los datos del libro.
