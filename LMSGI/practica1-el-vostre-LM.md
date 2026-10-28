@@ -24,7 +24,6 @@ Aquest és el fitxer de dades XML original, tiene diferentes datos que tienen qu
 Aquest és el fitxer de dades XML original, tiene diferentes datos que tienen que ver con cada libro que hay en el código:
 
 ```xml
-<?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
     <libro>
         <titulo>El nombre del viento</titulo>
