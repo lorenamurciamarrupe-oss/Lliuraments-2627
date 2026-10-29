@@ -72,7 +72,7 @@ Aquest és el fitxer de dades XML original, tiene diferentes datos que tienen qu
             en un mundo lleno de magia.
         </descripcion>
         <precio moneda="EUR">24.95</precio>
-        <editorial>Plaza & Janés</editorial>
+        <editorial>Plaza Y Janés</editorial>
         <isbn>9788401337208</isbn>
         <idioma>Español</idioma>
         <anio_publicacion>2009</anio_publicacion>
