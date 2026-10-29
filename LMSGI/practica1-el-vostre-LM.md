@@ -1,6 +1,7 @@
 # El vostre propi llenguatge de marques (BookLM)
 ## 1. Introducción a los lenguajes de marcas
 Los lenguajes de marcas organizan y describen información mediante etiquetas que identifican el tipo de contenido de un documento y permiten que los programas informáticos lo interpreten y procesen automáticamente. 
+
 A partir de esta idea, se ha propuesto BookLM, un lenguaje de marcas destinado a almacenar y organizar de forma estructurada y sencilla información relacionada con los libros.
 
 ## 8. Información que guarda
