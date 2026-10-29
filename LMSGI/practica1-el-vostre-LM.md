@@ -43,19 +43,19 @@ La etiqueta **`<biblioteca>`** contiene el catálogo y **`<libro>`** representa 
 ## 7. Información que guarda
 Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
 > - **`<biblioteca>`** Agrupa todos los libros.
-> - **Libro:** Contiene los datos del libro.
-> - **Titutlo:** Nombre del libro.
-> - **Autor:** Nombre del escritor.
-> - **Genero**: Categoria literaria.
-> - **Descripción:** Resumen del libro.
-> - **Precio** Coste del libro.
-> - **Editorial:** Empresas que publican el libro.
-> - **Isbn:** Identificador del libro.
-> - **Idioma:** Idioma de publicación.
-> - **Año_de_publicación:** Año de publucación
-> - **Paginas:** Numero de paginas del libro.
-> - **Formato:** Tapa dura, digital o blanda.
-> - **Stock:** Unidades disponiles.
+> - **`<Libro>`** Contiene los datos del libro.
+> - **`<Titutlo>`** Nombre del libro.
+> - **`<Autor>`** Nombre del escritor.
+> - **`<Genero>`**: Categoria literaria.
+> - **`<Descripción>`** Resumen del libro.
+> - **`<Precio>`** Coste del libro.
+> - **`<Editorial>`** Empresas que publican el libro.
+> - **`<Isbn>`** Identificador del libro.
+> - **`<Idioma>`** Idioma de publicación.
+> - **`<Año_de_publicación>`** Año de publucación
+> - **`<Paginas>`** Numero de paginas del libro.
+> - **`<Formato>`** Tapa dura, digital o blanda.
+> - **`<Stock>`** Unidades disponiles.
 
 ## 8. El Codi XML
 
