@@ -40,7 +40,7 @@ También podría usarse en una tienda online para consultar información como se
 ```
 La etiqueta **`<biblioteca>`** contiene el catálogo y **`<libro>`** representa a un libro en concreto. Dentro de esta se organizan los datos mediante otras etiquetas. El atributo moneda=EUR es el que indica el precio y se expresa en euros, pero también puede en dólares, libras y yenes japoneses. 
 
-## 8. Información que guarda
+## 7. Información que guarda
 Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
 > - **`<biblioteca>`** Agrupa todos los libros.
 > - **Libro:** Contiene los datos del libro.
@@ -57,11 +57,7 @@ Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que
 > - **Formato:** Tapa dura, digital o blanda.
 > - **Stock:** Unidades disponiles.
 
-## 1. Reglas del lenguaje
-
-Aquest és el fitxer de dades XML original, tiene diferentes datos que tienen que ver con cada libro que hay en el código:
-
-## 2. El Codi XML
+## 8. El Codi XML
 
 Aquest és el fitxer de dades XML original, tiene diferentes datos que tienen que ver con cada libro que hay en el código:
 
