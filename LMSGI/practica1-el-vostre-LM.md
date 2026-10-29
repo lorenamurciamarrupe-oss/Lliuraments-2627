@@ -5,11 +5,17 @@ Los lenguajes de marcas organizan y describen información mediante etiquetas qu
 A partir de esta idea, se ha propuesto BookLM, un lenguaje de marcas destinado a almacenar y organizar de forma estructurada y sencilla información relacionada con los libros.
 
 ## 2. Introducción a nuestro lenguaje de marcas y sus reglas.
-BookLM significa *Book Markup Language*. Es un lenguaje de marcas propio basado en XML, diseñado para guardar información sobre libros, como el título, autor, género, descripción, precio y editorial. 
+BookLM significa *Book Markup Language*. Es un lenguaje de marcas propio basado en **XML**, diseñado para guardar información sobre libros, como el título, autor, género, descripción, precio y editorial. 
 
 La idea es que se pueda utilizar en una biblioteca, librería o en tiendas online para mantener todos los datos de los libros organizados y facilitar la consulta. 
+
 ## 3.Clasificación de BookLM 
-BookLM es un lenguaje de marcas descriptivo o semántico, porque sus etiquetas indican qué representa cada dato. No define cómo debe mostrarse visualmente la información, sino cómo se organiza y que significado tiene cada cosa. 
+BookLM es un lenguaje de marcas **descriptivo** o **semántico**, porque sus etiquetas indican qué representa cada dato. No define cómo debe mostrarse visualmente la información, sino cómo se organiza y que significado tiene cada cosa. 
+
+## 4. Caso de uso adecuado
+Sería útil para gestionar el catálogo de libros de una biblioteca o librería. Permitiría almacenar los datos de cada libro y facilitar búsquedas por título, autor o género.
+
+También podría usarse en una tienda online para consultar información como seria el precio y las unidades disponibles mediante un programa que procese los datos. 
 
 ## 8. Información que guarda
 Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
