@@ -28,7 +28,7 @@ También podría usarse en una tienda online para consultar información como se
             en un mundo lleno de magia.
         </descripcion>
         <precio moneda="EUR">24.95</precio>
-        <editorial>Plaza & Janés</editorial>
+        <editorial>Plaza Y Janés</editorial>
         <isbn>9788401337208</isbn>
         <idioma>Español</idioma>
         <fecha_publicacion>2009</fecha_publicacion>
@@ -38,6 +38,8 @@ También podría usarse en una tienda online para consultar información como se
     </libro>
 <biblioteca>
 ```
+La etiqueta **`<biblioteca>`** contiene el catálogo y **`<libro>`** representa a un libro en concreto. Dentro de esta se organizan los datos mediante otras etiquetas. El atributo moneda=EUR es el que indica el precio y se expresa en euros, pero también puede en dólares, libras y yenes japoneses. 
+
 ## 8. Información que guarda
 Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
 > - **`<biblioteca>`** Agrupa todos los libros.
