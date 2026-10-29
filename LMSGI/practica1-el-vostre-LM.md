@@ -2,7 +2,7 @@
 ## 1. Introducción a los lenguajes de marcas
 Los lenguajes de marcas organizan y describen información mediante etiquetas que identifican el tipo de contenido de un documento y permiten que los programas informáticos lo interpreten y procesen automáticamente. 
 
-A partir de esta idea, se ha propuesto BookLM, un lenguaje de marcas destinado a almacenar y organizar de forma estructurada y sencilla información relacionada con los libros.
+A partir de esta idea, se ha propuesto **BookLM**, un lenguaje de marcas destinado a almacenar y organizar de forma estructurada y sencilla información relacionada con los libros.
 
 ## 2. Introducción a nuestro lenguaje de marcas y sus reglas.
 BookLM significa *Book Markup Language*. Es un lenguaje de marcas propio basado en **XML**, diseñado para guardar información sobre libros, como el título, autor, género, descripción, precio y editorial. 
@@ -16,7 +16,28 @@ BookLM es un lenguaje de marcas **descriptivo** o **semántico**, porque sus eti
 Sería útil para gestionar el catálogo de libros de una biblioteca o librería. Permitiría almacenar los datos de cada libro y facilitar búsquedas por título, autor o género.
 
 También podría usarse en una tienda online para consultar información como seria el precio y las unidades disponibles mediante un programa que procese los datos. 
-
+## 5. Ejemplo de BookLM
+```xml
+<biblioteca>
+    <libro>
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <genero>Fantasía</genero>
+        <descripcion>
+            Un joven relata su vida y sus aventuras
+            en un mundo lleno de magia.
+        </descripcion>
+        <precio moneda="EUR">24.95</precio>
+        <editorial>Plaza & Janés</editorial>
+        <isbn>9788401337208</isbn>
+        <idioma>Español</idioma>
+        <fecha_publicacion>2009</fecha_publicacion>
+        <paginas>880</paginas>
+        <formato>Tapa dura</formato>
+        <stock>15</stock>
+    </libro>
+<biblioteca>
+```
 ## 8. Información que guarda
 Esta hecho con un fitxero XML, que va sobre un catalogo de diferentes libros que tienen la siguiente información:
 > - **`<biblioteca>`** Agrupa todos los libros.
