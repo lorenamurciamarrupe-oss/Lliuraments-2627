@@ -133,3 +133,5 @@ Aquest és el fitxer de dades XML original, tiene diferentes datos que tienen qu
     </libro>
 </biblioteca>
 ```
+
+https://canva.link/nvcl0t7nnaa2476
